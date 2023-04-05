@@ -39,7 +39,7 @@ def timer(timer_input):
         time.sleep(1)
 
 # 년, 월, 일 선택 창 생성
-cal = Calendar(root, font=("Helvetica", 15))
+cal = Calendar(root, font=("Helvetica", 18))
 cal.pack(pady=10)
 
 # 시간 입력 창 생성
