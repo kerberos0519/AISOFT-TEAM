@@ -4,7 +4,7 @@ from PIL import Image, ImageTk
 
 # tkinter 윈도우 생성
 window = tk.Tk()
-window.geometry("400x400")
+window.geometry("500x400")
 window.title("2023 정보처리기사 1회 실기시험 남은 시간")
 
 # 이미지 불러오기
