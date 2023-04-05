@@ -52,4 +52,4 @@ update_time()
 # GUI 실행
 root.mainloop()
 
-print("바이")
+print("하이")
