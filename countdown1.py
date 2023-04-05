@@ -4,7 +4,7 @@ from PIL import Image, ImageTk
 import time
 
 root = Tk()
-root.title("냐미")
+root.title("냐밍")
 root.geometry("750x450")
 root.configure(bg="black")
 
