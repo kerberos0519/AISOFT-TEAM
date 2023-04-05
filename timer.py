@@ -1,6 +1,6 @@
 import tkinter as tk
 import time
-from tkcalendar import Calendar, DateEntry
+from tkcalender import Calendar, DateEntry
 
 # GUI 창 생성
 root = tk.Tk()
@@ -39,7 +39,7 @@ def timer(timer_input):
         time.sleep(1)
 
 # 년, 월, 일 선택 창 생성
-cal = Calendar(root, font=("Helvetica", 16))
+cal = Calendar(root, font=("Helvetica", 15))
 cal.pack(pady=10)
 
 # 시간 입력 창 생성
