@@ -9,9 +9,7 @@ root.geometry("750x450")
 root.configure(bg="black")
 
 
-def get_date():
-    date = cal.get_date()
-    print(date)
+
 
 
 def countdown():
